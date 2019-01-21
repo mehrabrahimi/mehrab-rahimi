@@ -2,6 +2,4 @@
 
 * mehrab
 
-/
-mehrab
-/
+/ mehrab /
